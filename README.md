@@ -1,3 +1,9 @@
+Crawl the web for a company.
+
+Uses the Bing API to find relevant pages and then scrapy to crawl. Needs a Bing API Key.
+
+A blatant rip-off of: https://github.com/eddiepease/company2vec. Thanks Eddie =]
+
 #### Setup:
 Put your Bing Key into `config.py`.
 
